@@ -7,7 +7,7 @@ git commit -m "Add exampe of code"
 ```
 
 Normal quote
-> Here is where the quote would go
+> Here is my change 
 
 
 *italics*
