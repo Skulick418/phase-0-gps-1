@@ -10,6 +10,7 @@ Normal quote
 > This is change number 2
 
 
+
 *italics*
 **bold**
 
